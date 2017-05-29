@@ -7,6 +7,7 @@ var names = [
   'Enric Gonzalez',
   'Leandro Gartner',
   'Jorge Cortés',
+  'Javier Marín'
 ];
 
 var list = names.map(function (name) {
