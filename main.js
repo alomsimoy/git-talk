@@ -3,6 +3,7 @@ var root = document.body.appendChild(document.createElement('div'));
 
 var names = [
   'Alex Piqueras',
+    'Jose Luis Alvarez',
 ];
 
 var list = names.map(function (name) {
