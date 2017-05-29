@@ -4,6 +4,7 @@ var root = document.body.appendChild(document.createElement('div'));
 var names = [
   'Alex Piqueras',
   'Jorge Cortés',
+  'Javier Marín'
 ];
 
 var list = names.map(function (name) {
