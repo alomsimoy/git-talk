@@ -4,6 +4,7 @@ var root = document.body.appendChild(document.createElement('div'));
 var names = [
   'Andreu Llabres',
   'Alex Piqueras',
+  'Jose Luis Alvarez',
   'Enric Gonzalez',
   'Leandro Gartner',
   'Jorge Cortés',
