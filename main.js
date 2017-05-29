@@ -3,6 +3,7 @@ var root = document.body.appendChild(document.createElement('div'));
 
 var names = [
   'Alex Piqueras',
+  'Leandro Gartner',
   'Jorge Cortés',
 ];
 
