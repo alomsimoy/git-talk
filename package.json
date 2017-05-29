@@ -1,0 +1,24 @@
+{
+  "name": "git-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "budo main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alomsimoy/git-talk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alomsimoy/git-talk/issues"
+  },
+  "homepage": "https://github.com/alomsimoy/git-talk#readme",
+  "dependencies": {
+    "budo": "^10.0.3",
+    "yo-yo": "^1.4.1"
+  }
+}
