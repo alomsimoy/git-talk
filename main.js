@@ -2,7 +2,10 @@ var html = require('yo-yo');
 var root = document.body.appendChild(document.createElement('div'));
 
 var names = [
-  'Alex Piqueras','Andreu Llabres',
+  'Andreu Llabres',
+  'Alex Piqueras',
+  'Leandro Gartner',
+  'Jorge Cortés',
 ];
 
 var list = names.map(function (name) {
