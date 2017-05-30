@@ -4,6 +4,7 @@ var root = document.body.appendChild(document.createElement('div'));
 var names = [
   'Andreu Llabres',
   'Alex Piqueras',
+  'Álvaro Tihanyi'
   'Xavi Caro',
   'David Llobell',
   'Jose Luis Alvarez',
@@ -11,7 +12,6 @@ var names = [
   'Leandro Gartner',
   'Jorge Cortés',
   'Javier Marín'
-
 ];
 
 var list = names.map(function (name) {
